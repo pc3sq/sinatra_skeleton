@@ -1,4 +1,6 @@
-Sinatra-Skeleton
+Sinatra Skeleton
 ================
 
-An MVC Sinatra Skeleton.
+*Pry
+
+*B-crypt for authentication
